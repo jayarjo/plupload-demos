@@ -1,0 +1,14 @@
+/*
+---
+name: UI Widget: Bundled example
+authors:
+  - Davit Barbakadze
+resources:
+  - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
+  - http://rawgithub.com/moxiecode/plupload/master/js/jquery.ui.plupload/jquery.ui.plupload.min.js
+  - http://rawgithub.com/moxiecode/plupload/master/js/jquery.ui.plupload/css/jquery.ui.plupload.css
+...
+*/
+
+http://jsfiddle.net/gh/get/jquery/1.9.1/dependencies/ui/jayarjo/plupload-demos/tree/master/2.x/queue/bundled
+

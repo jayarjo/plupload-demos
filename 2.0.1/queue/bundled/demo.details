@@ -1,8 +1,0 @@
-name: Queue Widget: Bundled example
-authors:
-	- Davit Barbakadze
-resources:
-	- http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
-	- http://rawgithub.com/moxiecode/plupload/master/js/jquery.plupload.queue/jquery.ui.plupload.min.js
-	- http://rawgithub.com/moxiecode/plupload/master/js/jquery.plupload.queue/css/jquery.ui.plupload.css
-normalize_css: no
