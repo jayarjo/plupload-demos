@@ -20,8 +20,7 @@ task("default", [], function () {
 			ref += util.format('* [%s](%s)\n', demo.name, demo.url);
 		});
 
-		ref = '`<!--ref-->`\n' + ref + '`<!--/ref-->`';
-		fs.writeFileSync('README.md', readme.replace(/`<!\-\-ref\-\->`[\s\S]*`<!\-\-\/ref\-\->`/, ref));
+		fs.writeFileSync('README.md', readme.replace(/(### Demos)[\s\S]*$/, '$1\n' + ref));
 	});
 });
 
