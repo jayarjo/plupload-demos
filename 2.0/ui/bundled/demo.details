@@ -1,0 +1,10 @@
+---
+ name: UI Widget: Bundled example
+ authors:
+   - Davit Barbakadze
+ resources:
+   - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
+   - http://rawgithub.com/moxiecode/plupload/master/js/jquery.ui.plupload/jquery.ui.plupload.min.js
+   - http://raw.github.com/moxiecode/plupload/master/js/jquery.ui.plupload/css/jquery.ui.plupload.css
+ normalize_css: no
+ ...
