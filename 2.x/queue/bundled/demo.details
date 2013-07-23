@@ -1,4 +1,3 @@
-/*
 ---
 name: Queue Widget - Bundled example
 authors:
@@ -7,7 +6,4 @@ resources:
   - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
   - http://rawgithub.com/moxiecode/plupload/master/js/jquery.plupload.queue/jquery.ui.plupload.min.js
   - http://rawgithub.com/moxiecode/plupload/master/js/jquery.plupload.queue/css/jquery.ui.plupload.css
-...
-*/
-
-http://jsfiddle.net/gh/get/jquery/1.9.1/dependencies/ui/jayarjo/plupload-demos/tree/master/2.x/queue/bundled
+url: http://jsfiddle.net/gh/get/jquery/1.9.1/dependencies/ui/jayarjo/plupload-demos/tree/master/2.x/queue/bundled
