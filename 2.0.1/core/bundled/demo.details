@@ -1,12 +1,10 @@
 /*
 ---
-name: Request.HTML - jsFiddle/Github integration demo
-description: jsFiddle demo hosted on Github using HTML Request to get Ajax data
+name: Core API - Bundled example
 authors:
-  - Piotr Zalewa
+  - Davit Barbakadze
 resources:
   - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
-  - /css/normalize.css
 ...
 */
 
