@@ -26,7 +26,7 @@ $(document).ready(function() {
 		// Specify what files to browse for
 		filters: [
 			{ title: "Image files", extensions: "jpg,gif,png" },
-			{ title: "Zip files", extensions  "zip,avi" }
+			{ title: "Zip files", extensions:  "zip,avi" }
 		],
 
 		// Rename files by clicking on their titles
