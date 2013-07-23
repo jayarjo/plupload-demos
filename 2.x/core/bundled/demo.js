@@ -11,8 +11,8 @@ $(document).ready(function() {
 		container: $('container'), // ... or DOM Element itself
 		max_file_size : '10mb',
 		url : 'upload.php',
-		flash_swf_url : '../js/Moxie.swf',
-		silverlight_xap_url : '../js/Moxie.xap',
+		flash_swf_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.swf',
+		silverlight_xap_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.xap',
 		filters : [
 			{title : "Image files", extensions : "jpg,gif,png"},
 			{title : "Zip files", extensions : "zip"}

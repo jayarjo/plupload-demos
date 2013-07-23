@@ -46,10 +46,10 @@ $(document).ready(function() {
 		},
 
 		// Flash settings
-		flash_swf_url: '../../js/Moxie.swf',
+		flash_swf_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.swf',
 
 		// Silverlight settings
-		silverlight_xap_url: '../../js/Moxie.xap'
+		silverlight_xap_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.xap'
 	});
 
 
