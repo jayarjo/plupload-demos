@@ -1,6 +1,7 @@
 /*
 ---
 name: Core API: Bundled example
+description: Some description here
 authors:
   - Davit Barbakadze
 resources:
@@ -9,4 +10,3 @@ resources:
 */
 
 http://jsfiddle.net/gh/get/jquery/1.9.1/jayarjo/plupload-demos/tree/master/2.x/core/bundled
-
