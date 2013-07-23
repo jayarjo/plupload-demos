@@ -1,0 +1,22 @@
+{
+    "name": "plupload-demos",
+    "version": "0.0.1",
+    "author": {
+        "name": "Davit Barbakadze",
+        "email": "jayarjo@gmail.com"
+    },
+    "homepage": "https://github.com/jayarjo/plupload-demos",
+    "bugs": { "url": "https://github.com/jayarjo/plupload-demos/issues" },
+    "license": { "type": "GPLv2", "url": "https://github.com/jayarjo/plupload-demos/blob/master/LICENSE" },
+    "repository": { "type": "git", "url": "git://github.com/jayarjo/plupload-demos.git" },
+    "private": true,
+    "engines": {
+        "node" : ">=0.8.0"
+    },
+    "dependencies": {
+        "jake": "0.5.x",
+        "yamljs": "0.1.x",
+        "glob": "3.2.x"
+    },
+    "devDependencies": {}
+}
