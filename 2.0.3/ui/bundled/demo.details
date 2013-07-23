@@ -1,6 +1,6 @@
 /*
 ---
-name: UI Widget: Bundled example
+name: UI Widget - Bundled example
 authors:
   - Davit Barbakadze
 resources:
@@ -10,5 +10,5 @@ resources:
 ...
 */
 
-http://jsfiddle.net/gh/get/jquery/1.9.1/dependencies/ui/jayarjo/plupload-demos/tree/master/2.x/queue/bundled
+http://jsfiddle.net/gh/get/jquery/1.9.1/dependencies/ui/jayarjo/plupload-demos/tree/master/2.x/ui/bundled
 
