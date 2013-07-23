@@ -5,7 +5,7 @@ description: jsFiddle demo hosted on Github using HTML Request to get Ajax data
 authors:
   - Piotr Zalewa
 resources:
-  - /js/empty.js
+  - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
   - /css/normalize.css
 ...
 */
