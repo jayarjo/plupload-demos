@@ -10,7 +10,11 @@ $(document).ready(function() {
 		browse_button : 'pickfiles', // you can pass in id...
 		container: $('container'), // ... or DOM Element itself
 		max_file_size : '10mb',
-		url : 'upload.php',
+		
+		// Fake server response here 
+		// url : '../upload.php',
+		url: "/echo/json",
+
 		flash_swf_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.swf',
 		silverlight_xap_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.xap',
 		filters : [

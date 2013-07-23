@@ -6,7 +6,7 @@ $(document).ready(function() {
 		
 		// Fake server response here 
 		// url : '../upload.php',
-		url: "/gh/get/response.html/jayarjo/plupload-demos/tree/master/2.0/ui/bundled",
+		url: "/echo/json",
 		
 		max_file_size : '10mb',
 		chunks : {
