@@ -1,0 +1,7 @@
+---
+name: v1.x - Core API - Bundled example
+authors:
+  - Davit Barbakadze
+resources:
+  - https://rawgithub.com/moxiecode/plupload/1.x/js/plupload.full.js
+url: http://jsfiddle.net/gh/get/jquery/1.9.1/jayarjo/plupload-demos/tree/master/1.x/core/bundled
