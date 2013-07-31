@@ -23,7 +23,7 @@ $(document).ready(function() {
 		// Resize images on clientside if we can
 		resize : {width : 320, height : 240, quality : 90},
 
-		flash_swf_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.swf',
-		silverlight_xap_url : 'http://rawgithub.com/moxiecode/moxie/master/js/Moxie.cdn.xap'
+		flash_swf_url : 'https://rawgithub.com/moxiecode/moxie/master/bin/flash/Moxie.cdn.swf',
+		silverlight_xap_url : 'https://rawgithub.com/moxiecode/moxie/master/bin/silverlight/Moxie.cdn.xap'
 	});
 });
