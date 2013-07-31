@@ -15,8 +15,8 @@ $(document).ready(function() {
 		// url : '../upload.php',
 		url: "/echo/json",
 
-		flash_swf_url : 'https://rawgithub.com/moxiecode/moxie/master/bin/flash/Moxie.cdn.swf',
-		silverlight_xap_url : 'https://rawgithub.com/moxiecode/moxie/master/bin/silverlight/Moxie.cdn.xap',
+		flash_swf_url : 'http://rawgithub.com/moxiecode/moxie/master/bin/flash/Moxie.cdn.swf',
+		silverlight_xap_url : 'http://rawgithub.com/moxiecode/moxie/master/bin/silverlight/Moxie.cdn.xap',
 		filters : [
 			{title : "Image files", extensions : "jpg,gif,png"},
 			{title : "Zip files", extensions : "zip"}

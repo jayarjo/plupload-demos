@@ -7,16 +7,16 @@ $(document).ready(function() {
 
 	var uploader = new plupload.Uploader({
 		runtimes : 'html5,flash,silverlight,html4',
-		browse_button : 'pickfiles', // you can pass in id...
-		container: $('container'), // ... or DOM Element itself
+		browse_button : 'pickfiles',
+		container: 'container',
 		max_file_size : '10mb',
 		
 		// Fake server response here 
 		// url : '../upload.php',
 		url: "/echo/json",
 
-		flash_swf_url : 'https://rawgithub.com/moxiecode/plupload/1.x/js/plupload.flash.cors.swf',
-		silverlight_xap_url : 'https://rawgithub.com/moxiecode/plupload/1.x/js/plupload.flash.cors.xap',
+		flash_swf_url : 'http://rawgithub.com/moxiecode/plupload/1.x/js/plupload.flash.cors.swf',
+		silverlight_xap_url : 'http://rawgithub.com/moxiecode/plupload/1.x/js/plupload.silverlight.cors.xap',
 		filters : [
 			{title : "Image files", extensions : "jpg,gif,png"},
 			{title : "Zip files", extensions : "zip"}
