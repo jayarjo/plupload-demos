@@ -4,5 +4,6 @@ authors:
   - Davit Barbakadze
 resources:
   - http://rawgithub.com/moxiecode/plupload/master/js/plupload.full.min.js
-wrap: l
+wrap: 
+  - l
 url: http://jsfiddle.net/gh/get/jquery/1.9.1/jayarjo/plupload-demos/tree/master/2.x/core/bundled
